@@ -1,0 +1,7 @@
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe.config
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.pdb
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.csprojAssemblyReference.cache
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.csproj.CoreCompileInputs.cache
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.exe
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.pdb
