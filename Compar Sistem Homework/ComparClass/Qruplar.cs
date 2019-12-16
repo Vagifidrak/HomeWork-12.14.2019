@@ -15,9 +15,8 @@ namespace Compar_Sistem_Homework.ComparClass
 
         public Qruplar(string qroupName)
         {
-            StList = new List<Student>();
             this.qroupName = qroupName;
         }
-        
+       
    }
 }

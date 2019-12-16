@@ -8,7 +8,14 @@ namespace Compar_Sistem_Homework.ComparClass
 {
     class programming : Qruplar
     {
-        public programming(string proQroup) : base(proQroup){}
+        public List<Student> StudentList;
+
+        public programming(string proQroup) : base(proQroup){
+           
+            qroupName = proQroup;
+            StList = new List<Student>();
+            }
+        
 
     }
 }

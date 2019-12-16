@@ -8,9 +8,6 @@ namespace Compar_Sistem_Homework.ComparClass
 {
     class designing : Qruplar
     {
-        public designing(string desQroup) : base(desQroup)
-        {
-
-        }
+        public designing(string desQroup) : base(desQroup){}
     }
 }

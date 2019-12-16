@@ -8,9 +8,6 @@ namespace Compar_Sistem_Homework.ComparClass
 {
     class EnglishMan:Qruplar
     {
-        public EnglishMan(string EngQroup) : base(EngQroup)
-        {
-
-        }
+        public EnglishMan(string EngQroup) : base(EngQroup){}
     }
 }
