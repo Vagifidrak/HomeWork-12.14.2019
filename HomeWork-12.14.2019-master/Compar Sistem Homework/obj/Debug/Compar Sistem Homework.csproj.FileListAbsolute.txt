@@ -1,0 +1,20 @@
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe.config
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.pdb
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.csprojAssemblyReference.cache
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.csproj.CoreCompileInputs.cache
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.exe
+C:\Users\Vaqif.Idrak\source\repos\Compar Sistem Homework\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.pdb
+C:\Users\User\Desktop\HomeWork-12.14.2019\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HomeWork-12.14.2019\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.exe
+C:\Users\User\Desktop\HomeWork-12.14.2019\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.pdb
+C:\Users\User\Desktop\HomeWork-12.14.2019\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe.config
+C:\Users\User\Desktop\HomeWork-12.14.2019\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe
+C:\Users\User\Desktop\HomeWork-12.14.2019\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.pdb
+C:\Users\Vaqif.Idrak\Desktop\HomeWork-12.14.2019-master\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe.config
+C:\Users\Vaqif.Idrak\Desktop\HomeWork-12.14.2019-master\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.exe
+C:\Users\Vaqif.Idrak\Desktop\HomeWork-12.14.2019-master\Compar Sistem Homework\bin\Debug\Compar Sistem Homework.pdb
+C:\Users\Vaqif.Idrak\Desktop\HomeWork-12.14.2019-master\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.csprojAssemblyReference.cache
+C:\Users\Vaqif.Idrak\Desktop\HomeWork-12.14.2019-master\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.csproj.CoreCompileInputs.cache
+C:\Users\Vaqif.Idrak\Desktop\HomeWork-12.14.2019-master\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.exe
+C:\Users\Vaqif.Idrak\Desktop\HomeWork-12.14.2019-master\Compar Sistem Homework\obj\Debug\Compar Sistem Homework.pdb
